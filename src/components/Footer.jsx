@@ -1,3 +1,4 @@
+import BgColor from "./BgColor";
 
 function Copyright() {
     return (
@@ -13,6 +14,7 @@ function Github(){
         <p>
             <a href="https://github.com/anthonymarkreynolds/Dingo-Drum" target="blank">Github</a>
             {/* <img src="./public/GitHub-Mark.png" alt="github icon" /> */}
+            <BgColor />
         </p>
         
     )

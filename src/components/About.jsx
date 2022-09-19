@@ -3,7 +3,7 @@ const About = () => {
         <div className="about">
             
             <h1>About Dingo Drum</h1>
-            <p>Dingo Drums is the brainchild of Yumi Yu, Anthony Reynolds, Todd Yu and Hardeep Singh. Created in response to a 1 day hackathon set by the Coder Academy.</p>
+            <p>Dingo Drum is the brainchild of Yumi Yu, Anthony Reynolds, Todd Yu and Hardeep Singh. Created in response to a 1 day hackathon set by the Coder Academy.</p>
                 <p>We felt a drum pad app would be a good test and practice of the skills we learnt in term 3 at Coder Academy. These skills included:</p>
                     <ul>
                         <li>Javascript</li>
